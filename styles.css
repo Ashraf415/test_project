@@ -30,6 +30,7 @@ HERO SECTION
 =======================*/
 .hero{
 background-image: url(burj_khalifa_1.jpg);
+background-repeat: no-repeat;
 height: 100vh;
 display: flex;
 flex-direction: column;
